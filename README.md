@@ -1,6 +1,4 @@
-Dưới đây là gợi ý nội dung cho tệp README để tóm tắt hệ thống đặt vé xem phim của bạn. Nội dung sẽ được viết rõ ràng, súc tích và đủ ý:  
 
----
 
 # Cinema Ticket Booking System  
 
@@ -25,16 +23,35 @@ Cinema Ticket Booking System là một ứng dụng web cho phép người dùng
 3. **Đặt vé xem phim**:  
    - Lựa chọn rạp chiếu, thời gian, và ghế ngồi.  
    - Hiển thị trạng thái ghế đã đặt hoặc còn trống.  
+![image](https://github.com/user-attachments/assets/0d943480-2bb9-4b16-bc41-c849487525de)
+![image](https://github.com/user-attachments/assets/56b617bc-dcba-49a2-9302-24e671b9adde)
 
 4. **Thanh toán**:  
    - Hỗ trợ các phương thức thanh toán trực tuyến.  
+![image](https://github.com/user-attachments/assets/25c6738e-9e3f-4102-9f70-7ad9617a16b7)
 
 5. **Quản lý đặt chỗ**:  
    - Xem danh sách các vé đã đặt.  
    - Hủy vé (nếu cần).  
+![image](https://github.com/user-attachments/assets/a18526b1-d43a-4e58-8ddb-fcc2bb775875)
 
-6. **Chức năng quản trị**: *(nếu có)*  
-   - Quản lý danh sách phim, rạp chiếu, lịch chiếu và ghế ngồi.  
+6. **Chức năng quản trị**:  
+   - Quản lý danh sách phim, rạp chiếu, lịch chiếu và ghế ngồi.
+![Screenshot 2024-12-18 085754](https://github.com/user-attachments/assets/d5f5b92c-2a9e-48a3-9494-b8336f1df469)
+
+![image](https://github.com/user-attachments/assets/85c7463b-76df-4f02-976f-af4ecd85a306)
+7. **Chức năng Scan Qrcode**: 
+- Có thể scan bằng camera hoặc hình ảnh
+![image](https://github.com/user-attachments/assets/e5d14b9c-dce8-4417-9f6c-ad1271bd1be2)
+8. **Sử dụng map để hiển thị location cinema**: 
+![image](https://github.com/user-attachments/assets/679e5be1-6031-4c0c-ae2e-48b22f5a322a)
+9. **Light mode và dark mode**:
+10. **Chat realtime giữa người dùng và quản trị viên**:
+  ![image](https://github.com/user-attachments/assets/8cb5f720-0e7b-457d-8dbd-11bd186af3df)
+![image](https://github.com/user-attachments/assets/6530d168-1e3f-4299-8cc4-720e641ef854)
+
+11.**Customize seat trong một rạp chiếu phim**:
+  ![image](https://github.com/user-attachments/assets/0fbca188-ac31-414c-9a28-aa3409cd1b86)
 
 ## Cài đặt và chạy dự án  
 
